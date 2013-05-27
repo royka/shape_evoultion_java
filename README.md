@@ -14,6 +14,6 @@ Application allows a user to select shapes, combine them and then export them to
 printed using a 3D printer.
 
 Known Issues:
-+Cellular Automata is not very effective, in that it is too small a resoultion
-+Expensive Computationally
-+Hard to compile and run (even if it is JAVA!), porting to Python
+- Cellular Automata is not very effective, in that it is too small a resoultion
+- Expensive Computationally
+- Hard to compile and run (even if it is JAVA!), porting to Python
