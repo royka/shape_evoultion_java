@@ -1,6 +1,5 @@
-shape_evoultion_java
+3D Shape Evoultion
 ====================
-
 
 My final year project. 
 
